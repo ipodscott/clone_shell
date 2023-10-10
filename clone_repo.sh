@@ -5,6 +5,7 @@ repos=(
   "https://github.com/ipodscott/custom-front-admin-bar.git"
   "https://github.com/ipodscott/Gutenberg-Gradient-Fix.git"
   "https://github.com/ipodscott/styles.git"
+  "https://github.com/ipodscott/show-reusable-blocks.git"
 )
 for repo in "${repos[@]}"
 do
